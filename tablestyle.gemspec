@@ -18,5 +18,5 @@ Gem::Specification.new do |gem|
   gem.require_paths = ["lib"]
 
   gem.add_dependency(%q<compass>, [">= 0.12.0"])
-  gem.add_dependency(%q<sass>, [">= 3.2.0"])
+  gem.add_dependency(%q<haml>, [">= 4.0.0"])
 end
