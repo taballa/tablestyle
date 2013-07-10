@@ -4,7 +4,7 @@ Compass::Frameworks.register("tablestyle", :path => "#{File.dirname(__FILE__)}/.
 
 module Tablestyle
     # Your code goes here...
-    STYLESHEETS = File.expand_path("../sass", __FILE__)
+    STYLESHEETS = File.expand_path("../stylesheets", __FILE__)
 
 end
 
